@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-    std::cout << "Done." << std::endl;
+    std::cout << "We have done, havent we?" << std::endl;
     return 0;
 }
